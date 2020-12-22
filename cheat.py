@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-Very simple cheat.sh / tldr - client
+Minimalist "https://cheat.sh" and "tldr" - client
 '''
 
 import sys
